@@ -2,37 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://derpfest.online/ru/rules/</loc>
-  </url>
-  <url>
-    <loc>https://derpfest.online/info/visa/</loc>
-  </url>
-  <url>
-    <loc>https://derpfest.online/info/</loc>
-  </url>
-  <url>
     <loc>https://derpfest.online/ru/register/</loc>
   </url>
   <url>
-    <loc>https://derpfest.online/post/derpfest-2017-hello-again/</loc>
-  </url>
-  <url>
-    <loc>https://derpfest.online/post/ticket-sale-open/</loc>
-  </url>
-  <url>
-    <loc>https://derpfest.online/post/volunteer-applications-open/</loc>
-  </url>
-  <url>
-    <loc>https://derpfest.online/post/first-day-venue-announcement/</loc>
-  </url>
-  <url>
-    <loc>https://derpfest.online/post/event-applications-open/</loc>
-  </url>
-  <url>
-    <loc>https://derpfest.online/ru/post/derpfest-2017-hello-again/</loc>
+    <loc>https://derpfest.online/ru/post/counterfeits-are-forbidden/</loc>
   </url>
   <url>
     <loc>https://derpfest.online/ru/post/ministry-of-image/</loc>
+  </url>
+  <url>
+    <loc>https://derpfest.online/ru/post/auction-applications-open/</loc>
+  </url>
+  <url>
+    <loc>https://derpfest.online/ru/post/derpfest-2017-hello-again/</loc>
   </url>
   <url>
     <loc>https://derpfest.online/ru/post/moon-drive/</loc>
@@ -41,19 +23,31 @@
     <loc>https://derpfest.online/ru/post/ticket-sale-open/</loc>
   </url>
   <url>
-    <loc>https://derpfest.online/ru/post/counterfeits-are-forbidden/</loc>
-  </url>
-  <url>
     <loc>https://derpfest.online/ru/post/remote-tickets/</loc>
   </url>
   <url>
-    <loc>https://derpfest.online/ru/post/auction-applications-open/</loc>
+    <loc>https://derpfest.online/post/derpfest-2017-hello-again/</loc>
   </url>
   <url>
-    <loc>https://derpfest.online/events/guests/</loc>
+    <loc>https://derpfest.online/post/event-applications-open/</loc>
   </url>
   <url>
-    <loc>https://derpfest.online/ru/events/guests/</loc>
+    <loc>https://derpfest.online/post/first-day-venue-announcement/</loc>
+  </url>
+  <url>
+    <loc>https://derpfest.online/post/ticket-sale-open/</loc>
+  </url>
+  <url>
+    <loc>https://derpfest.online/post/volunteer-applications-open/</loc>
+  </url>
+  <url>
+    <loc>https://derpfest.online/ru/rules/</loc>
+  </url>
+  <url>
+    <loc>https://derpfest.online/events/</loc>
+  </url>
+  <url>
+    <loc>https://derpfest.online/events/registration/</loc>
   </url>
   <url>
     <loc>https://derpfest.online/</loc>
@@ -62,30 +56,36 @@
     <loc>https://derpfest.online/ru/</loc>
   </url>
   <url>
-    <loc>https://derpfest.online/team/</loc>
-  </url>
-  <url>
-    <loc>https://derpfest.online/ru/team/</loc>
-  </url>
-  <url>
     <loc>https://derpfest.online/tickets/</loc>
   </url>
   <url>
     <loc>https://derpfest.online/ru/tickets/</loc>
   </url>
   <url>
+    <loc>https://derpfest.online/team/</loc>
+  </url>
+  <url>
+    <loc>https://derpfest.online/ru/team/</loc>
+  </url>
+  <url>
+    <loc>https://derpfest.online/events/guests/</loc>
+  </url>
+  <url>
+    <loc>https://derpfest.online/ru/events/guests/</loc>
+  </url>
+  <url>
     <loc>https://derpfest.online/ru/about/</loc>
-  </url>
-  <url>
-    <loc>https://derpfest.online/events/registration/</loc>
-  </url>
-  <url>
-    <loc>https://derpfest.online/events/</loc>
   </url>
   <url>
     <loc>https://derpfest.online/info/hotels/</loc>
   </url>
   <url>
+    <loc>https://derpfest.online/info/visa/</loc>
+  </url>
+  <url>
     <loc>https://derpfest.online/info/venue/</loc>
+  </url>
+  <url>
+    <loc>https://derpfest.online/info/</loc>
   </url>
 </urlset>
